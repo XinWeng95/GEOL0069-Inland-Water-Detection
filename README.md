@@ -65,23 +65,23 @@ K-means clustering was able to separate water and non-water pixels but introduce
 
 ### RGB Image
 
-![RGB](RGB Image of Hyde Park.png)
+![RGB](rgb.png)
 
 ### NDWI Map
 
-![NDWI](NDWI Map of Hyde Park: Serpentine Lake.png)
+![NDWI](ndwi_map.png)
 
 ### NDWI Water Mask
 
-![NDWI Mask](Water Mask from NDWI Threshold.png)
+![NDWI Mask](ndwi_mask.png)
 
 ### K-means Classification
 
-![Kmeans](K-means Classification.png)
+![Kmeans](kmeans_classification.png)
 
 ### K-means Water Mask
 
-![Kmeans Mask](Water Mask from K-means Clustering.png)
+![Kmeans Mask](kmeans_mask.png)
 
 ---
 
@@ -113,11 +113,11 @@ Future work could include additional Sentinel-2 scenes, alternative water indice
 | File | Description |
 |--------|--------|
 | GEOL0069_Inland_Water_Detection.ipynb | Main project notebook |
-| RGB Image of Hyde Park.png | RGB visualisation |
-| NDWI Map of Hyde Park: Serpentine Lake.png | NDWI map |
-| Water Mask from NDWI Threshold.png | NDWI water mask |
-| K-means Classification.png | K-means classification result |
-| Water Mask from K-means Clustering.png | K-means water mask |
+| rgb.png | RGB visualisation |
+| ndwi_map.png | NDWI map |
+| ndwi_mask.png | NDWI water mask |
+| kmeans_classification.png | K-means classification result |
+| kmeans_mask.png | K-means water mask |
 
 ---
 
